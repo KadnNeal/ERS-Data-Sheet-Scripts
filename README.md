@@ -54,7 +54,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -79,6 +79,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+-->
 
 
 
@@ -115,10 +116,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 ## Getting Started
 
 In
+-->
 
 ### Prerequisites
 
