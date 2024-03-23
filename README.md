@@ -85,14 +85,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+I created this project one night when I was filling out redundant data sheets for 48 bus ducts (or busways) in which I insulation resstanced and contact resistance tested the days prior. I wanted to add some of my own features to PowerDB to make the software more user firenldy based on my daily needs and the tab feature was my biggest complaint. After copying a sheet you already made it copies all the data from the previous sheet such as, location, date, user, equipment id, busduct info, and all the compnents on the sheet are highlighted blue to signify it hasn't been edited. On this copied sheet you have to tab through the whole sheet to show that the whole document has been edited. If these bus ducts were in the same data hall most of the time all you have to change are the sepecifics of that bus duct which are usually the name, serial no, cat. no, and test results. I got tired of having to tab through every sheet and clicking out of message boxes and having to continue to tab before editing the specifics, so I created these scripts using AHK. With the single click of ctrl + tab you can now let the script do all the work and tab through the whole sheet for you, deletes the past sheets test reults, serial no, cat no, etc. and lets you put your data in so you can move on to the next sheet. 
+
+## Future plans
+
+I plan pn making more scripts for the diffrent data sheets to automate as much as I can to speed of the workflow of our buisness. I plan on implementing something like apple ios live text where I can take a picture of a name plate and the software will recognize and copy the text from the nameplate so my script can then implement the things like cat.no and serial no for the user. After these I also plan on making a desktop application so users don't have to come here to retrieve the scripts. 
+<!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
-
-
+<!--
 ### Built With
 
 * [![Next][Next.js]][Next-url]
@@ -105,25 +111,30 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In
 
 ### Prerequisites
 
+To use and test this software you will need access to PowerDB. 
+<!--
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
   ```
+-->
 
 ### Installation
 
+1. Install the corresponding script based on what type of equipment test sheet you want to automate in PowerDB.
+<!--
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
@@ -139,21 +150,24 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+This project does not have a large user audience so here are some videos to visualize how this software aids me in my daily work. 
+<!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+--> 
 
 
-
-<!-- ROADMAP -->
+<!-- ROADMAP 
 ## Roadmap
 
 - [ ] Feature 1
@@ -164,10 +178,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 
-
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -180,7 +194,7 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -197,7 +211,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kadn Neal - linkedin - kneal12@asu.edu
+Kadn Neal - <a href=“https://www.linkedin.com/in/kadn-neal-498027258/”>Linkedin</a> - kneal12@asu.edu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
